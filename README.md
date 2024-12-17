@@ -1,6 +1,6 @@
-# docker-monitoring-prom-grafana
+# docker-monitoring-prom-grafana /
 
-#mkdir docker-monitoring
+#mkdir docker-monitoring /
 #cd docker-monitoring
 #touch docker-compose.yml
 #touch prometheus.yml
