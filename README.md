@@ -3,9 +3,10 @@
 
 mkdir container-monitoring
 
-create docker-compose.yml
-Prometheus.yml
-Grafana.ini
+create/download following files: /
+docker-compose.yml /
+prometheus.yml /
+grafana.ini /
 
 docker-compose up -d
 
