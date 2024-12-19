@@ -1,12 +1,12 @@
-# docker-monitoring-prom-grafana /
+# docker-monitoring-prom-grafana
 
 
 mkdir container-monitoring
 
-create/download following files: /
-docker-compose.yml /
-prometheus.yml /
-grafana.ini /
+create/download following files:  
+docker-compose.yml  
+prometheus.yml  
+grafana.ini 
 
 docker-compose up -d
 
