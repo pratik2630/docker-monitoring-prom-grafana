@@ -23,7 +23,6 @@ vim Grafana.ini
 enabled = true
 host = smtp.gmail.com:587
 user = your-mail@gmail.com
-# If the password contains # or ; you have to wrap it with triple quotes. Ex """#password;"""
 password = your-passkey
 ;cert_file =
 ;key_file =
